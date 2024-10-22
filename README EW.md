@@ -1,12 +1,12 @@
 # Project 1 - Tech Stock Analysis
 ## This is an analysis of 3 tech stocks in order to make a purchase recommendation to client 
 
-!['The Quants'](Tech_pic_main.png)
+![alt text](TheQuantsLogo.png)
 
-<img src="/assets/resources/TheQuantsLogo.png">
+<img src="/resources/TheQuantsLogo.png">
 
 <p align="center">
-  <img src="/assets/resources/TheQuantsLogo.png" />
+  <img src="/resources/TheQuantsLogo.png" />
 </p>
 
 <p align="center">
