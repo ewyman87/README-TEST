@@ -3,9 +3,11 @@
 
 !['The Quants'](Tech_pic_main.png)
 
+<img src="/assets/resources/TheQuantsLogo.png">
 
-
-
+<p align="center">
+  <img src="/assets/resources/TheQuantsLogo.png" />
+</p>
 
 <p align="center">
 DISCLOSURE:
@@ -166,6 +168,7 @@ During review of the output of .plot_components() the team recognized that the w
 
 4. https://bootcampspot.instructure.com/
 
+5. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ## TEAM MEMBERS
 1. Mark Johnson
