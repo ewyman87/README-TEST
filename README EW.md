@@ -1,4 +1,4 @@
-# Project 1 - Tech Stock Analysis
+# Project 1 - Tech Stock Analysis -THIS IS A TESTTTTTT
 ## This is an analysis of 3 tech stocks in order to make a purchase recommendation to client 
 
 ![alt text](TheQuantsLogo.png)
